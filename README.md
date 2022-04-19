@@ -1,23 +1,25 @@
-# Title
-Hello-Microverse
+# Hello Microverse
 # Description
-The aim of this project is to master all the tools(git and github) and best practices
+This is a learning project for micronaunts at Microverse. Its aim is to master all the tools(git and github) and best practices that we have learned.
 
 # Getting started
 Open the project using your preferred text editor like vscode
 run index file in the browser
 
-# Major languages
-HTML & CSS
+# Built With
+Languages - HTML, CSS and JavaScript
+Frameworks - None
+Technologies - Web Technology
 
 # Contributing
-Check out the issues page https://github.com/Bornittah/Hello-Microverse/issues
+Feel free to check out the issues page
 
-# Citation
-Agasha Bornittah (2022) Microverse Project(version 1.0) https://github.com/Bornittah
+# Show your support
+Give a star if you like this project
 # License
-MIT License
+This project is MIT licensed.
 
 # Author
-Agasha Bornittah 
+1. Agasha Bornittah 
 Github: https://github.com/Bornittah
+
